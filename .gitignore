@@ -28,7 +28,9 @@ dist-ssr
 *.local
 
 # Project
+/webapp/*
 /apirest/*
+/webadmin/*
 /platform/mariadb-11.8/data
 /platform/nginx-php/docker/config
 /platform/nginx-php/docker/Dockerfile
